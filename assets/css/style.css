@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+}
+.cont{
+
+width: 1200px;
+
+margin: auto;
+
+background: gainsboro;
+}
+.heading{
+
+width: 100%;
+
+background-color: pink;
+
+display: inline-block;
+
+float: left;
+}
+.logo{
+
+float: left;
+
+width: 20%;
+
+padding: 19px;
+display: inline-block;
+}
+
+nav{
+    
+width: 80%;
+    
+
+}
+nav ul{
+    list-style: none;
+    float: right;
+}
+nav ul li{
+    float: left;
+    display: inline-block;
+    padding: 10px 15px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+nav ul li a:hover{}
+.information{
+
+float: left;
+
+display: inline-block;
+
+width: 20%;
+
+margin: 80px;
+
+background: gray;
+
+padding: 10px;
+
+box-sizing: border-box;
+}
+.hw{
+    margin: 0;
+    text-align: center;
+}
+.wallpaper img{
+    max-width: 100%
+}
+.wallpaper{
+    
+float: left;
+    
+width: 33.33%;
+    
+padding: 10px;
+    
+box-sizing: border-box;
+    
+background: gainsboro;
+}
+.ft{
+    margin: 0;
+    text-align: center;
+}
+footer{
+    float: left;
+    width: 1021px;
+    background-color: gray;
+    padding: 90px;
+    overflow: hidden;
+}
